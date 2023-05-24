@@ -1,6 +1,5 @@
 # _Epicodus0-1st-project_
 
-# _{Application Name}_
 
 #### By _**Jessica Perry**_
 
